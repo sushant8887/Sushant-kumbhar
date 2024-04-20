@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hey there! I'm Sushant Kumbhar, a full-stack web developer passionate about crafting elegant solutions to complex problems. I thrive in frontend and backend environments, always exploring new technologies to stay ahead. Let's connect and geek out about tech together!</h3>
+<h4 align="left">👋 Hey there! I'm Sushant Kumbhar, a full-stack web developer passionate about crafting elegant solutions to complex problems. I thrive in frontend and backend environments, always exploring new technologies to stay ahead. Let's connect and geek out about tech together!</h4>
 
 ###
 
@@ -25,8 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
@@ -63,11 +61,6 @@
 
 <br clear="both">
 
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sushant8887/count.svg?"  />
-</div>
+<img src="https://raw.githubusercontent.com/sushant8887/sushant8887/output/snake.svg" alt="Snake animation" />
 
 ###
